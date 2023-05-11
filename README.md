@@ -7,7 +7,7 @@
 - WhatsApp: +255 752 832 590
 - email: amedeusedgar@gmail.com
 - LikedIn: Davies Amedeus
-- instagram: bigtable_foundations
+- instagram: daviesamedeus
 
 <!---
 DaviesAmedeus/DaviesAmedeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
