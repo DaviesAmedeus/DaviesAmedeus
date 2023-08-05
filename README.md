@@ -4,7 +4,7 @@
 - 🌱 I’m in a self taught 100days of python challenge
 - 💞️ I’m looking to collaborate on anything concerning software development
 - 📫 How to reach me
-- Phone: +255 752 832 590
+- Phone: +255 672 442 838 / +255 752 832 590
 - WhatsApp: +255 752 832 590
 - email: amedeusedgar@gmail.com
 - LikedIn: Davies Amedeus
